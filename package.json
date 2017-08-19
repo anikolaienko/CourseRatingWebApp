@@ -1,0 +1,26 @@
+{
+  "name": "course-rating-web-app",
+  "version": "1.0.0",
+  "description": "first web app for rating educational courses",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikolaienko/CourseRatingWebApp.git"
+  },
+  "keywords": [
+    "node.js",
+    "js"
+  ],
+  "author": "Andrii Nikolaienko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anikolaienko/CourseRatingWebApp/issues"
+  },
+  "homepage": "https://github.com/anikolaienko/CourseRatingWebApp#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
