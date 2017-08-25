@@ -1,0 +1,8 @@
+{
+  "name": "CourseRatingWebApp",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha",
+    "popper.js": "^1.12.3"
+  }
+}
